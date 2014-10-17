@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ime:home|Door43 (ime)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ime|d43-ime repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ime/archive/master.zip|d43-ime.zip]]
+
+**Recent Changes**
+{{changes>ns = ime}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ime|Ethnologue data]]
+
